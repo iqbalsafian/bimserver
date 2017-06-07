@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: CIDBim
+Implementation-Version: 0.1.0
+Built-By: iqbal
+Built-Date: Mon Jun 05 15:58:49 SGT 2017
+Built-JDK: 1.8.0_131
+Main-Class: Main.Main
+
